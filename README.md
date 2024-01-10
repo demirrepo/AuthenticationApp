@@ -1,2 +1,2 @@
-# AuthenticationApp
-Just another simple app. The app can register and add you to the members list, so you can login to it next time with your password. Simple register-login system.
+# TO-DO-BOOK
+Just another simple app. You can use this program to save the books that you finished at a certain time. You can use it by opening it on android emulator on Android Studio. 
